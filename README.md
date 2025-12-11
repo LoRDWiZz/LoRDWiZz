@@ -18,7 +18,3 @@
 <a href="https://www.ko-fi.com/l0rdw1z">
 <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="160" alt="ko-fi" />
 </a>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=lordwizz&show_icons=true&locale=en" alt="lordwizz" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lordwizz&show_icons=true&locale=en&layout=compact" alt="lordwizz" /></p>
-</p>
-</p>
